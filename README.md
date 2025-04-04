@@ -1,5 +1,5 @@
 # my-portfolio
-This is my personal portfolio website. It showcaes my interests, projects and contact information.
+This is my personal portfolio website. It showcases my interests, projects and contact information.
 ##features
 **interests**. lists what i am interested in
 **projects**. displays my notable web development projects.
