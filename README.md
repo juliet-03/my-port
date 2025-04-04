@@ -17,3 +17,7 @@ This is my personal portfolio website. It showcases my interests, projects and c
 
 ##Contact
 Feel free to reach out to me via the contact formon the website.
+
+#Deployment
+deployed using Github pages
+https://juliet-03.github.io/my-port/
