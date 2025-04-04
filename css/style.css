@@ -1,0 +1,119 @@
+body{
+    background-color: cadetblue;
+    color: white;
+    font-family: presso, sans-serif;
+    font-size: 16px;
+
+
+}
+.main-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.nav-item{
+    border: 1px solid lightgray;
+    padding: 10px;
+    text-align: center;
+    margin-right: 5px;
+
+    
+}
+.nav-item a{
+    text-decoration: none; 
+    color: white;
+    font-weight: bold;
+
+}
+.header-content{
+    text-align: center;
+    padding: 30px;
+    background-color:lightgray;
+    border-radius: 8px;
+    box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1200px;
+
+}
+.header-content h1{
+    font-size: 2.5em;
+    color: cadetblue;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+section{
+    padding:40px;
+    margin:20px 0;
+}
+section#about{
+    background-color: white;
+    color: cadetblue;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+section#programming languages{
+    list-style-type: disc;
+    padding-left:20px;
+
+}
+section#programming languages ul li{
+    margin 5px 0;
+
+}
+section#projects .project{
+    background-color: white;
+    color: cadetblue;
+    border-radius: 8px;
+    margin:10px 0;
+    padding: 15px;
+
+}
+section#interests{
+    background-color: white;
+    color: cadetblue;
+    padding: 15px;
+    margin:10px 0;
+} {
+
+}
+section#contact form {
+    display: grid;
+    grid-gap:10px;
+
+
+}
+section#contact form input, section#contact form textarea{
+    padding: 10px;
+    border: 1px solid cadetblue;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100%;
+    
+}
+section#contact form button{
+    padding: 10px 20px;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: darkcyan;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+    color: cadetblue;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+
+}
